@@ -2,6 +2,10 @@
 
 This project analyzes ecommerce sales data using Power BI.
 
+## 📸 Dashboard Preview
+
+![Ecommerce Dashboard](dashboard.png)
+
 ### 🔹 Key Insights
 - Sales by State
 - Monthly Trends
